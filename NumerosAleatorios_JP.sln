@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosAleatorios_JP", "NumerosAleatorios_JP\NumerosAleatorios_JP.csproj", "{BAA7F8E7-4E28-45BE-BCAE-E30FCD57A2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA7F8E7-4E28-45BE-BCAE-E30FCD57A2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA7F8E7-4E28-45BE-BCAE-E30FCD57A2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA7F8E7-4E28-45BE-BCAE-E30FCD57A2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA7F8E7-4E28-45BE-BCAE-E30FCD57A2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277953E1-DE87-4BD3-92CE-33247AF7424F}
+	EndGlobalSection
+EndGlobal
